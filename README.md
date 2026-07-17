@@ -55,7 +55,32 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 
 ![Vercel Badge](https://img.shields.io/badge/⚡%20Powered%20by%20Vercel-000000?style=flat-square&logo=vercel)
 
-**Vercel** is my go-to platform for deploying modern web applications. The seamless integration with Next.js, automatic previews, edge functions, and zero-config deployments make it absolutely perfect for rapid development and scaling. Deploy, iterate, and ship faster! 🚀
+**Vercel** is my go-to platform for deploying modern web applications. The seamless integration with Next.js, automatic previews, edge functions, and zero-config deployments make it absolutely perfect!
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Project Name]** | Brief description of what this project does and its key features | React, Node.js, PostgreSQL |
+| **[Project Name]** | Brief description of what this project does and its key features | Next.js, Tailwind, Firebase |
+| **[Project Name]** | Brief description of what this project does and its key features | Vue.js, Express, MongoDB |
+
+</div>
+
+---
+
+## 🎲 Fun Fact
+
+<div align="center">
+
+> **Did you know?** 🤓  
+> I've written over **1,000 cups of coffee** ☕ worth of code, debugged mysterious errors at 3 AM, and somehow managed to never commit directly to main (well, almost never 😅). When I'm not coding, I'm exploring new technologies or contributing to open-source communities!
 
 </div>
 
