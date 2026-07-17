@@ -67,9 +67,8 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Project Name]** | Brief description of what this project does and its key features | React, Node.js, PostgreSQL |
-| **[Project Name]** | Brief description of what this project does and its key features | Next.js, Tailwind, Firebase |
-| **[Project Name]** | Brief description of what this project does and its key features | Vue.js, Express, MongoDB |
+| **skool.lol** | A Web Proxy, to browse an unrestricted Web | React, Node.js, HTML|
+| **giveaways.lol** | A simple Discord Giveaway Bot | Discord.JS |
 
 </div>
 
