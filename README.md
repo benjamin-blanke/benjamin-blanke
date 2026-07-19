@@ -69,7 +69,8 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 |---------|-------------|-----------|
 | **skool.lol** | A Web Proxy, to browse an unrestricted Web | React, Node.js, HTML|
 | **giveaways.lol** | A simple Discord Giveaway Bot | Discord.JS |
-
+| **mood.lol** | An adaptive open-source mood engine for your desktop and browser. | TypeScript |
+| **onlineforever** | Make Your Discord Account 24/7 Online! | Python |
 </div>
 
 ---
