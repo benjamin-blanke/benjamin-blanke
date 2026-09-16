@@ -99,8 +99,8 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/cryx-dev?style=social)
-![GitHub stars](https://img.shields.io/github/stars/cryx-dev?style=social)
+![GitHub followers](https://img.shields.io/github/followers/benjamin-blanke?style=social)
+![GitHub stars](https://img.shields.io/github/stars/benjamin-blanke?style=social)
 
 </div>
 
@@ -110,6 +110,6 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 
 ### Let's connect and build something incredible! 🚀
 
-[GitHub](https://github.com/cryx-dev) • [LinkedIn](https://linkedin.com) • [Portfolio](https://vercel.com)
+[GitHub](https://github.com/benjamin-blanke) • [Portfolio](https://blanke.lol)
 
 </div>
