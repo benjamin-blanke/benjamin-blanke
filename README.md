@@ -67,9 +67,8 @@ I'm a passionate full-stack developer obsessed with building modern, scalable we
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **giveaways.lol** | A simple Discord Giveaway Bot | Discord.JS |
-| **mood.lol** | An adaptive open-source mood engine for your desktop and browser. | TypeScript |
-| **onlineforever** | Make Your Discord Account 24/7 Online! | Python |
+| **svelfolio** | A modern, reusable portfolio template showcasing projects, writing, and interactive Svelte components. | Svelte |
+| **basicmails** | BasicMails is a modern, simple and reliable email provider built for everyday communication. | TypeScript |
 </div>
 
 ---
