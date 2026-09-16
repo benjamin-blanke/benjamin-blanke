@@ -84,8 +84,8 @@ I enjoy the intersection of engineering and design: turning rough ideas into int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=benjamin-blanke&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=06b6d4&text_color=64748b&rank_icon=github" alt="Benjamin's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-blanke&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=64748b" alt="Top languages" height="170" />
+[![GitHub followers](https://img.shields.io/github/followers/benjamin-blanke?style=for-the-badge&logo=github&label=Followers&color=7c3aed)](https://github.com/benjamin-blanke)
+[![GitHub stars](https://img.shields.io/github/stars/benjamin-blanke?style=for-the-badge&logo=github&label=Stars&color=06b6d4)](https://github.com/benjamin-blanke?tab=repositories)
 
 <br />
 
