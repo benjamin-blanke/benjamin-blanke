@@ -19,10 +19,23 @@ dependencies and a fair bit of applied cryptography.
 
 ### Skills
 
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown" alt="GitHub WidgetBox" width="70%" style="max-width: 900px; height: auto;">
-</a>
+### Skills
 
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier" alt="GitHub WidgetBox" width="70%" style="max-width: 900px; height: auto;">
-</a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,sqlite,linux,windows,markdown"
+        alt="Languages"
+        width="100%"
+      />
+    </td>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,googlecloud,kubernetes,linux,ubuntu,phpstorm,vscode"
+        alt="Tools"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
