@@ -19,13 +19,49 @@ dependencies and a fair bit of applied cryptography.
 
 ### Skills
 
+</div>
+
+<br />
+
+<div align="center">
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,yaml,postgresql,mysql,sqlite,linux,windows,markdown&theme=dark&perline=8" alt="Languages" width="360" />
+    <td width="33%" valign="top" align="center">
+      <strong>Frontend</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML5-5E7F67?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-243A33?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <br />
+      <img src="https://img.shields.io/badge/JavaScript-5E7F67?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-243A33?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br />
+      <img src="https://img.shields.io/badge/React-5E7F67?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-243A33?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <br />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-5E7F67?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Flutter-243A33?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,kubernetes,linux,ubuntu,vscode,phpstorm&theme=dark&perline=8" alt="Tools" width="360" />
+    <td width="33%" valign="top" align="center">
+      <strong>Backend</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/C%23-5E7F67?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-243A33?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <br />
+      <img src="https://img.shields.io/badge/Python-5E7F67?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PostgreSQL-243A33?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <br />
+      <img src="https://img.shields.io/badge/Supabase-5E7F67?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Firebase-243A33?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Workflow</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Git-5E7F67?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-243A33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <br />
+      <img src="https://img.shields.io/badge/VS_Code-5E7F67?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Vercel-243A33?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
 </table>
+</div>
