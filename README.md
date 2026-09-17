@@ -14,28 +14,18 @@ Day to day it's PHP/Laravel and Go, a lot of Kubernetes, and lately cross-provid
 dependencies and a fair bit of applied cryptography.
 
 ### Some of my Projects:
-* [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/benjamin-blanke/basicmails "GitHub Repo")
-* [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/benjamin-blanke/svelfolio "GitHub Repo")
-
-### Skills
+* [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/basicmails)
+* [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/svelfolio)
 
 ### Skills
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <img
-        src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,sqlite,linux,windows,markdown"
-        alt="Languages"
-        width="100%"
-      />
+    <td align="center" valign="top">
+      <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,sqlite,linux,windows,markdown" alt="Languages" width="420" />
     </td>
-    <td valign="top" width="50%">
-      <img
-        src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,googlecloud,kubernetes,linux,ubuntu,phpstorm,vscode"
-        alt="Tools"
-        width="100%"
-      />
+    <td align="center" valign="top">
+      <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,googlecloud,kubernetes,linux,ubuntu,phpstorm,vscode" alt="Tools" width="420" />
     </td>
   </tr>
 </table>
