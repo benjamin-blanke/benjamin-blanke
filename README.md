@@ -17,6 +17,8 @@ dependencies and a fair bit of applied cryptography.
 * [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/benjamin-blanke/basicmails "GitHub Repo")
 * [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/benjamin-blanke/svelfolio "GitHub Repo")
 
-### GitHub Things
+### Skills
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/output/github-contribution-grid-snake-dark.svg)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
