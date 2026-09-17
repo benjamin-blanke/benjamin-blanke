@@ -22,10 +22,10 @@ dependencies and a fair bit of applied cryptography.
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,sqlite,linux,windows,markdown" alt="Languages" width="420" />
+      <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,yaml,postgresql,mysql,sqlite,linux,windows,markdown&theme=dark&perline=8" alt="Languages" width="360" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,googlecloud,kubernetes,linux,ubuntu,phpstorm,vscode" alt="Tools" width="420" />
+      <img src="https://skillicons.dev/icons?i=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,kubernetes,linux,ubuntu,vscode,phpstorm&theme=dark&perline=8" alt="Tools" width="360" />
     </td>
   </tr>
 </table>
