@@ -17,7 +17,7 @@ dependencies and a fair bit of applied cryptography.
 * [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/basicmails)
 * [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/svelfolio)
 
-### Skills
+### Tech Stack
 
 </div>
 
