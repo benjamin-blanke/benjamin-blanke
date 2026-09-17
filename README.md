@@ -19,7 +19,4 @@ dependencies and a fair bit of applied cryptography.
 
 ### GitHub Things
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/output/github-contribution-grid-snake-dark.svg"/>
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/output/github-contribution-grid-snake.svg"/>
-</picture>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/output/github-contribution-grid-snake-dark.svg)
