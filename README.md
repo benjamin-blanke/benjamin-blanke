@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm Benjamin — a solo founder from northern Germany building products with a strong bias toward **privacy, ownership, and useful details**.
+I'm Benjamin <img src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/main/assets/wave.gif" width="20px" alt="Waving hand" /> — a solo founder from northern Germany building products with a strong bias toward **privacy, ownership, and useful details**.
 
 My main focus is **[Basic Mails](https://basicmails.de?ref=rr-github)**: modern mail, calendar management, and contact pages — available self-hosted or as a cloud service. It is built on EU-only infrastructure, designed with GDPR in mind, and avoids unnecessary US-cloud dependencies. The cloud edition has been in public beta since 2026.
 
