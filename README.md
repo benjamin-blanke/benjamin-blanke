@@ -10,8 +10,8 @@ I build **[Basic Mails](https://basicmails.de?ref=rr-github)**: mails, calendar 
 self-hosted or as cloud. EU-only infrastructure, GDPR-first, no US-cloud dependencies.
 Been at it since 2026; the cloud edition is in public beta.
 
-Day to day it's PHP/Laravel and Go, a lot of Kubernetes, and lately cross-provider status
-dependencies and a fair bit of applied cryptography.
+Day to day it's PHP/Laravel and Go, a lot of Kubernetes, and lately cross-provider mail
+dependencies and a fair bit of applied cryptography. 
 
 ### Some of my Projects:
 * [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/basicmails)
