@@ -1,0 +1,86 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Zen OS Logo</title>
+  <desc>Minimalistisches schwarzes Logo für Zen OS</desc>
+
+  <!-- Symbol -->
+  <g transform="translate(70 50)">
+    <!-- Smartphone -->
+    <rect
+      x="70"
+      y="10"
+      width="150"
+      height="280"
+      rx="30"
+      stroke="#000000"
+      stroke-width="18"
+    />
+
+    <!-- Display -->
+    <rect
+      x="98"
+      y="48"
+      width="94"
+      height="170"
+      rx="8"
+      fill="#000000"
+    />
+
+    <!-- Home indicator -->
+    <rect
+      x="125"
+      y="244"
+      width="40"
+      height="8"
+      rx="4"
+      fill="#000000"
+    />
+
+    <!-- Zen circle -->
+    <circle
+      cx="145"
+      cy="133"
+      r="42"
+      fill="#FFFFFF"
+      stroke="#000000"
+      stroke-width="10"
+    />
+
+    <!-- Zen line -->
+    <path
+      d="M112 133C126 112 160 112 178 133C160 154 126 154 112 133Z"
+      fill="#000000"
+    />
+
+    <circle
+      cx="145"
+      cy="133"
+      r="8"
+      fill="#FFFFFF"
+    />
+  </g>
+
+  <!-- Wordmark -->
+  <text
+    x="390"
+    y="205"
+    fill="#000000"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="112"
+    font-weight="700"
+    letter-spacing="8"
+  >
+    ZEN
+  </text>
+
+  <text
+    x="395"
+    y="285"
+    fill="#000000"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="62"
+    font-weight="400"
+    letter-spacing="18"
+  >
+    OS
+  </text>
+</svg>
