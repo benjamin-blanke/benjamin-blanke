@@ -1,6 +1,6 @@
 <!-- header.svg must sit in the repo root to render -->
 <a href="https://opus-host.de?ref=rr-github">
-  <img width="100%" src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/main/assets/zen.svg" alt="Benjamin"/>
+  <img width="100%" src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/main/zen.svg" alt="Benjamin"/>
 </a>
 
 ### About Me
