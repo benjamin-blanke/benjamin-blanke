@@ -1,0 +1,43 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Zen OS Icon</title>
+
+  <!-- Schwarzer Hintergrund -->
+  <rect width="512" height="512" rx="112" fill="#000000"/>
+
+  <!-- Minimalistischer Zen-Kreisel -->
+  <path
+    d="M256 105
+       C172.6 105 105 172.6 105 256
+       C105 339.4 172.6 407 256 407
+       C339.4 407 407 339.4 407 256"
+    stroke="#FFFFFF"
+    stroke-width="42"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M256 105
+       C339.4 105 407 172.6 407 256
+       C407 339.4 339.4 407 256 407"
+    stroke="#FFFFFF"
+    stroke-width="42"
+    stroke-linecap="round"
+    stroke-dasharray="155 330"
+    stroke-dashoffset="42"
+  />
+
+  <!-- Zentrale, ruhige Form -->
+  <circle
+    cx="256"
+    cy="256"
+    r="34"
+    fill="#000000"
+  />
+
+  <circle
+    cx="256"
+    cy="256"
+    r="13"
+    fill="#FFFFFF"
+  />
+</svg>
