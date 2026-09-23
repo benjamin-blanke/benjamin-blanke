@@ -70,7 +70,7 @@ dependencies and a fair bit of applied cryptography.
 ### Discord Things
 
 <h3 align="center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930idleMessage=Probably%20working%20om%20pus...)](https://discord.com/users/1456359108075847930)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930)?theme=dark&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20working%20on%20Opus...)](https://discord.com/users/1456359108075847930))
 
 </h3>
