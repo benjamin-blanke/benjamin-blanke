@@ -71,6 +71,6 @@ dependencies and a fair bit of applied cryptography.
 
 <h3 align="center">
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1456359108075847930)](https://discord.com/users/1456359108075847930)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930idleMessage=Probably%20working%20om%20pus...)](https://discord.com/users/1456359108075847930)
 
 </h3>
