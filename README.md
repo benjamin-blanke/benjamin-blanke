@@ -1,6 +1,6 @@
 <h3 align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930?theme=dark&bg=000000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20working%20on%2C%20building%20something%20useful&hideTimestamp=true)](https://discord.com/users/1456359108075847930)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930?theme=dark&bg=000000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20working%20on%2C%20building%20Opus&hideTimestamp=true)](https://discord.com/users/1456359108075847930)
 
 </h3>
 
