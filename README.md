@@ -14,7 +14,7 @@ TypeScript developer creating projects for GitHub, Discord, and modern developer
 * [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/svelfolio)
 * [**portivo**](https://portivo.vercel.app): Modern, flexible portfolio platform for showcasing projects, skills, experience, and personality. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/portivo)
 
-### Quote
+### Quote of the Day
 
 <p align="center">
   <a href="https://github.com/Vishal-beep136/github-readme-quotify">
