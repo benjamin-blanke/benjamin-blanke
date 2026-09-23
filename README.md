@@ -5,14 +5,9 @@
 </h3>
 
 ### About Me
-**I'm Benjamin** <img src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/main/assets/wave.gif" width="20px"> — solo founder in northern Germany, full-stack and platform side.
+**I'm Benjamin** <img src="https://raw.githubusercontent.com/benjamin-blanke/benjamin-blanke/main/assets/wave.gif" width="20px">
 
-I build **[Basic Mails](https://basicmails.de?ref=rr-github)**: mails, calendar management and conatct pages —
-self-hosted or as cloud. EU-only infrastructure, GDPR-first, no US-cloud dependencies.
-Been at it since 2026; the cloud edition is in public beta.
-
-Day to day it's PHP/Laravel and Go, a lot of Kubernetes, and lately cross-provider mail
-dependencies and a fair bit of applied cryptography. 
+TypeScript developer creating projects for GitHub, Discord, and modern developer workflows. I enjoy building useful tools, experimenting with new ideas, and turning concepts into working software.
 
 ### Some of my Projects:
 * [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/basicmails)
