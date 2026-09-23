@@ -1,6 +1,6 @@
 <h3 align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930?theme=dark&bg=000000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20working%20on%20Opus...)](https://discord.com/users/1456359108075847930)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1456359108075847930?theme=dark&bg=000000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20working%20on%2C%20building%20something%20useful&hideTimestamp=true)](https://discord.com/users/1456359108075847930)
 
 </h3>
 
@@ -9,10 +9,17 @@
 
 TypeScript developer creating projects for GitHub, Discord, and modern developer workflows. I enjoy building useful tools, experimenting with new ideas, and turning concepts into working software.
 
+### Socials
+<p align="left">
+  <a href="https://github.com/benjamin-blanke"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://blanke.lol"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/1456359108075847930"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 ### Some of my Projects:
-* [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/basicmails)
-* [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/svelfolio)
-* [**portivo**](https://portivo.vercel.app): Modern, flexible portfolio platform for showcasing projects, skills, experience, and personality. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="16" alt="GitHub" /></kbd>](https://github.com/benjamin-blanke/portivo)
+* [**basicmails**](https://basicmails.de): A modern, simple, and reliable email provider built for everyday communication. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="GitHub" width="12" height="12"></kbd>](https://github.com/benjamin-blanke/basicmails)
+* [**svelfolio**](https://blanke.lol): A modern, reusable portfolio template for showcasing projects, writing, and interactive Svelte components. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="GitHub" width="12" height="12"></kbd>](https://github.com/benjamin-blanke/svelfolio)
+* [**portivo**](https://portivo.vercel.app): Modern, flexible portfolio platform for showcasing projects, skills, experience, and personality. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="GitHub" width="12" height="12"></kbd>](https://github.com/benjamin-blanke/portivo)
 
 ### Quote of the Day
 
