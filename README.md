@@ -8,8 +8,6 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,svelte,tailwind,php,discordjs,python,wordpress,postgres,git,github,vercel&theme=dark" alt="Skills" />
 
-—-
-
 <br />
 
 <a href="https://blanke.lol" title="Website"><img src="https://github.com/benjamin-blanke/benjamin-blanke/raw/main/assets/globe.svg" width="20" height="20" alt="Website" /></a>
