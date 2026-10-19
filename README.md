@@ -10,7 +10,7 @@
 
 <br />
 
-<a href="https://blanke.lol">Website</a> ·
-<a href="https://discord.com/users/1456359108075847930">Discord</a>
+<a href="https://blanke.lol" title="Website"><img src="https://cdn.simpleicons.org/internetexplorer/FFFFFF" width="16" height="16" alt="Website" /></a> ·
+<a href="https://discord.com/users/1456359108075847930" title="Discord"><img src="https://cdn.simpleicons.org/discord/FFFFFF" width="16" height="16" alt="Discord" /></a>
 
 </div>
