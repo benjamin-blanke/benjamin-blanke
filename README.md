@@ -6,7 +6,7 @@
 # Benjamin Blanke
 *Removing infrastructure barriers so developers can focus on building.*
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,svelte,tailwind,php,discordjs,python,wordpress,postgres,git,github,vercel&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,svelte,tailwind,php,discordjs,python,wordpress,postgres,git,github,vercel&theme=dark" alt="Skills" />
 
 <br />
 
